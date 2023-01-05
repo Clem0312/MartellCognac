@@ -6,6 +6,63 @@
   "type" : "Manifest",
   "@context" : "http://iiif.io/api/presentation/3/context.json",
   "items" : [ {
+    "width" : 740,
+    "id" : "https://Clem0312.github.io/MartellCognac/images/martell-personnage/canvas/",
+    "label" : {
+      "none" : [ "martell-personnage" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://Clem0312.github.io/MartellCognac/images/martell-personnage/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://Clem0312.github.io/MartellCognac/images/martell-personnage/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 24,
+              "height" : 35
+            }, {
+              "width" : 47,
+              "height" : 69
+            }, {
+              "width" : 93,
+              "height" : 137
+            }, {
+              "width" : 185,
+              "height" : 274
+            }, {
+              "width" : 370,
+              "height" : 547
+            }, {
+              "width" : 740,
+              "height" : 1093
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 740,
+            "@id" : "https://Clem0312.github.io/MartellCognac/images/martell-personnage",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 1093
+          } ],
+          "format" : "image/jpeg",
+          "width" : 740,
+          "id" : "https://Clem0312.github.io/MartellCognac/images/martell-personnage/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 1093
+        },
+        "target" : "https://Clem0312.github.io/MartellCognac/images/martell-personnage/canvas/"
+      } ]
+    } ],
+    "height" : 1093
+  }, {
     "width" : 1024,
     "id" : "https://Clem0312.github.io/MartellCognac/images/Alambic-et-chauffe/canvas/",
     "label" : {
