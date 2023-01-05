@@ -1,0 +1,66 @@
+{
+  "id" : "https://Clem0312.github.io/MartellCognac/images/manifest.json",
+  "label" : {
+    "en" : [ "All images loaded in Clem0312/MartellCognac project" ]
+  },
+  "type" : "Manifest",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "width" : 1024,
+    "id" : "https://Clem0312.github.io/MartellCognac/images/Alambic-et-chauffe/canvas/",
+    "label" : {
+      "none" : [ "Alambic-et-chauffe" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://Clem0312.github.io/MartellCognac/images/Alambic-et-chauffe/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://Clem0312.github.io/MartellCognac/images/Alambic-et-chauffe/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 32,
+              "height" : 22
+            }, {
+              "width" : 64,
+              "height" : 43
+            }, {
+              "width" : 128,
+              "height" : 86
+            }, {
+              "width" : 256,
+              "height" : 171
+            }, {
+              "width" : 512,
+              "height" : 341
+            }, {
+              "width" : 1024,
+              "height" : 682
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 1024,
+            "@id" : "https://Clem0312.github.io/MartellCognac/images/Alambic-et-chauffe",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 682
+          } ],
+          "format" : "image/jpeg",
+          "width" : 1024,
+          "id" : "https://Clem0312.github.io/MartellCognac/images/Alambic-et-chauffe/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 682
+        },
+        "target" : "https://Clem0312.github.io/MartellCognac/images/Alambic-et-chauffe/canvas/"
+      } ]
+    } ],
+    "height" : 682
+  } ]
+}
