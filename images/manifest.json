@@ -7,6 +7,63 @@
   "@context" : "http://iiif.io/api/presentation/3/context.json",
   "items" : [ {
     "width" : 740,
+    "id" : "https://Clem0312.github.io/MartellCognac/images/Paleo-Martell/canvas/",
+    "label" : {
+      "none" : [ "Paleo-Martell" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://Clem0312.github.io/MartellCognac/images/Paleo-Martell/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://Clem0312.github.io/MartellCognac/images/Paleo-Martell/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 24,
+              "height" : 29
+            }, {
+              "width" : 47,
+              "height" : 58
+            }, {
+              "width" : 93,
+              "height" : 115
+            }, {
+              "width" : 185,
+              "height" : 230
+            }, {
+              "width" : 370,
+              "height" : 460
+            }, {
+              "width" : 740,
+              "height" : 919
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 740,
+            "@id" : "https://Clem0312.github.io/MartellCognac/images/Paleo-Martell",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 919
+          } ],
+          "format" : "image/jpeg",
+          "width" : 740,
+          "id" : "https://Clem0312.github.io/MartellCognac/images/Paleo-Martell/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 919
+        },
+        "target" : "https://Clem0312.github.io/MartellCognac/images/Paleo-Martell/canvas/"
+      } ]
+    } ],
+    "height" : 919
+  }, {
+    "width" : 740,
     "id" : "https://Clem0312.github.io/MartellCognac/images/Old-brandy-etiquette/canvas/",
     "label" : {
       "none" : [ "Old-brandy-etiquette" ]
