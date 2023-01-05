@@ -1,0 +1,13 @@
+{
+  "id" : "https://Clem0312.github.io/MartellCognac/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in Clem0312/MartellCognac project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://Clem0312.github.io/MartellCognac/manifests/martellcognac.json",
+    "label" : "Martell Cognac"
+  } ]
+}
