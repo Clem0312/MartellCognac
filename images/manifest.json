@@ -6,6 +6,63 @@
   "type" : "Manifest",
   "@context" : "http://iiif.io/api/presentation/3/context.json",
   "items" : [ {
+    "width" : 250,
+    "id" : "https://Clem0312.github.io/MartellCognac/images/XO-martell/canvas/",
+    "label" : {
+      "none" : [ "XO-martell" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://Clem0312.github.io/MartellCognac/images/XO-martell/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://Clem0312.github.io/MartellCognac/images/XO-martell/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 8,
+              "height" : 8
+            }, {
+              "width" : 16,
+              "height" : 16
+            }, {
+              "width" : 32,
+              "height" : 32
+            }, {
+              "width" : 63,
+              "height" : 63
+            }, {
+              "width" : 125,
+              "height" : 125
+            }, {
+              "width" : 250,
+              "height" : 250
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 250,
+            "@id" : "https://Clem0312.github.io/MartellCognac/images/XO-martell",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 250
+          } ],
+          "format" : "image/jpeg",
+          "width" : 250,
+          "id" : "https://Clem0312.github.io/MartellCognac/images/XO-martell/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 250
+        },
+        "target" : "https://Clem0312.github.io/MartellCognac/images/XO-martell/canvas/"
+      } ]
+    } ],
+    "height" : 250
+  }, {
     "width" : 800,
     "id" : "https://Clem0312.github.io/MartellCognac/images/VSOP-Martell/canvas/",
     "label" : {
