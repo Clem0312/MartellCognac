@@ -1,0 +1,205 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://Clem0312.github.io/MartellCognac/manifests/manifest2.json",
+  "@type" : "sc:Manifest",
+  "label" : "Martell Cognac",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "[La Maison Martell]",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "[Internet photographs]",
+  "sequences" : [ {
+    "@id" : "http://9985e15b-171d-495d-9dcc-fe2737c352f9",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://c5df69f2-ae46-4b0e-9e1b-ded395d91027",
+      "@type" : "sc:Canvas",
+      "label" : "Martell new logo",
+      "height" : 2160,
+      "width" : 3840,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://39b44379-7e86-407f-b2d4-d0e25070a4c5",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/martell-nouveau-logo/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/martell-nouveau-logo",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 2160,
+          "width" : 3840
+        },
+        "on" : "http://c5df69f2-ae46-4b0e-9e1b-ded395d91027"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://f4bba533-384f-4e60-ab7b-7065f8c84bf3",
+      "@type" : "sc:Canvas",
+      "label" : "Bottle XO Martell",
+      "height" : 250,
+      "width" : 250,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://4312dcf1-d759-4adb-bdfa-96f756d33342",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/xo-martell/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/xo-martell",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 250,
+          "width" : 250
+        },
+        "on" : "http://f4bba533-384f-4e60-ab7b-7065f8c84bf3"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://9b04c4fe-d165-48a7-8065-b549e3bf9135",
+      "@type" : "sc:Canvas",
+      "label" : "Bottle VSOP Martell",
+      "height" : 800,
+      "width" : 800,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://93517007-769a-4f8a-960f-a76cf1f58e93",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/vsop-martell/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/vsop-martell",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 800,
+          "width" : 800
+        },
+        "on" : "http://9b04c4fe-d165-48a7-8065-b549e3bf9135"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://79f5c9cc-5c9e-477b-83f3-9f4e7ce60ab0",
+      "@type" : "sc:Canvas",
+      "label" : "Old Brandy label ",
+      "height" : 435,
+      "width" : 740,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://328e7be5-949b-453d-a003-fcf33215bcc9",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/old-brandy-etiquette/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/old-brandy-etiquette",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 435,
+          "width" : 740
+        },
+        "on" : "http://79f5c9cc-5c9e-477b-83f3-9f4e7ce60ab0"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://95da15df-ecd0-4988-ae22-b07f6adafff3",
+      "@type" : "sc:Canvas",
+      "label" : "Alambic et chauffe",
+      "height" : 682,
+      "width" : 1024,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://1073cfd0-55ba-4770-b76c-6023df7e5f11",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/alambic-et-chauffe/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/alambic-et-chauffe",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 682,
+          "width" : 1024
+        },
+        "on" : "http://95da15df-ecd0-4988-ae22-b07f6adafff3"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://18e34f6b-105c-4f29-9079-21470a56d919",
+      "@type" : "sc:Canvas",
+      "label" : "First exportation of Cognac",
+      "height" : 919,
+      "width" : 740,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://be6afe33-76a5-455a-b1a5-6d4dd475c503",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/paleo-martell/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/paleo-martell",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 919,
+          "width" : 740
+        },
+        "on" : "http://18e34f6b-105c-4f29-9079-21470a56d919"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://ee5bc43b-a66e-4555-a1d9-8dfdfd578322",
+      "@type" : "sc:Canvas",
+      "label" : "Jean Martell",
+      "height" : 1093,
+      "width" : 740,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://4398d88e-1cf7-470c-af60-dcb99751820b",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/martell-personnage/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/martell-personnage",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 1093,
+          "width" : 740
+        },
+        "on" : "http://ee5bc43b-a66e-4555-a1d9-8dfdfd578322"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ]
+}
