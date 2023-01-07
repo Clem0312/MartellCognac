@@ -3,6 +3,11 @@
   "@id" : "https://Clem0312.github.io/MartellCognac/manifests/manifest2.json",
   "@type" : "sc:Manifest",
   "label" : "Martell Cognac",
+  "service" : {
+    "profile" : "http://iiif.io/api/search/0/search",
+    "@id" : "https://dev.gdmrdigital.com/search-api/1240244679/111618135605349851906/085b90b26e1ea6028098939f9f3f5485/search",
+    "@context" : "http://iiif.io/api/search/0/context.json"
+  },
   "metadata" : [ ],
   "description" : [ {
     "@value" : "[La Maison Martell]",
@@ -42,6 +47,11 @@
         },
         "on" : "http://c5df69f2-ae46-4b0e-9e1b-ded395d91027"
       } ],
+      "otherContent" : [ {
+        "@id" : "https://clem0312.github.io/MartellCognac/annotations/1cb3ca8d2f1c9b61ecdb49c57f01785f.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "My fantastic annotations"
+      } ],
       "related" : ""
     }, {
       "@id" : "http://f4bba533-384f-4e60-ab7b-7065f8c84bf3",
@@ -67,6 +77,11 @@
           "width" : 250
         },
         "on" : "http://f4bba533-384f-4e60-ab7b-7065f8c84bf3"
+      } ],
+      "otherContent" : [ {
+        "@id" : " https://clem0312.github.io/MartellCognac/annotations/6b80793dd2d0328ec933246278fc54af.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "My fantastic annotations"
       } ],
       "related" : ""
     }, {
@@ -94,6 +109,11 @@
         },
         "on" : "http://9b04c4fe-d165-48a7-8065-b549e3bf9135"
       } ],
+      "otherContent" : [ {
+        "@id" : "https://clem0312.github.io/MartellCognac/annotations/72710e1cc6cdeacdb8042bb7252b306d.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "My fantastic annotations"
+      } ],
       "related" : ""
     }, {
       "@id" : "http://79f5c9cc-5c9e-477b-83f3-9f4e7ce60ab0",
@@ -119,6 +139,11 @@
           "width" : 740
         },
         "on" : "http://79f5c9cc-5c9e-477b-83f3-9f4e7ce60ab0"
+      } ],
+      "otherContent" : [ {
+        "@id" : " https://clem0312.github.io/MartellCognac/annotations/fdd970f0b27e34ad4fdf88b4d564dc00.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "My fantastic annotations"
       } ],
       "related" : ""
     }, {
@@ -146,6 +171,11 @@
         },
         "on" : "http://95da15df-ecd0-4988-ae22-b07f6adafff3"
       } ],
+      "otherContent" : [ {
+        "@id" : "https://clem0312.github.io/MartellCognac/annotations/d2c1bdefffa848094f5f508375fc6484.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "My fantastic annotations"
+      } ],
       "related" : ""
     }, {
       "@id" : "http://18e34f6b-105c-4f29-9079-21470a56d919",
@@ -172,6 +202,11 @@
         },
         "on" : "http://18e34f6b-105c-4f29-9079-21470a56d919"
       } ],
+      "otherContent" : [ {
+        "@id" : " https://clem0312.github.io/MartellCognac/annotations/5952144bce7c86bc170a5c46a75802f9.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "My fantastic annotations"
+      } ],
       "related" : ""
     }, {
       "@id" : "http://ee5bc43b-a66e-4555-a1d9-8dfdfd578322",
@@ -197,6 +232,11 @@
           "width" : 740
         },
         "on" : "http://ee5bc43b-a66e-4555-a1d9-8dfdfd578322"
+      } ],
+      "otherContent" : [ {
+        "@id" : " https://clem0312.github.io/MartellCognac/annotations/417e41c9ad9e1e340ba887b43d5c0098.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "My fantastic annotations"
       } ],
       "related" : ""
     } ]
