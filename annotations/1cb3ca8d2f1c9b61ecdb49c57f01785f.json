@@ -1,0 +1,105 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Despite the modernization of the label, the family crest is still present, distinct from the bird that has become the logo.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Despite the modernization of the label, the family crest is still present, distinct from the bird that has become the logo.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/111618135605349851906",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-01-06T18:03:53",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1673028233803",
+    "dcterms:modified" : "2023-01-06T18:35:17",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://Clem0312.github.io/MartellCognac/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1579,1524,737,625"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1578.51813,1523.80311h368.46114v0h368.46114v312.50259v312.50259h-368.46114h-368.46114v-312.50259z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0,0],&quot;editable&quot;:true}\" id=\"rectangle_c9ab37a5-ea55-4de1-8b9d-d6a81d482437\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#000000\" stroke-width=\"22.38342\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://c5df69f2-ae46-4b0e-9e1b-ded395d91027"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "The martinet is the emblematic logo of the Martell house. No longer just seated as on the very first labels, he is now represented flying; symbol of power.\nThis logo is a tribute to Jean Martell. Indeed, it is said that he loved these birds because their flight and their song made him think to the swallows of the island of Jersey (island on which he spent his childhood).",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>The martinet is the emblematic logo of the Martell house. No longer just seated as on the very first labels, he is now represented flying; symbol of power.</p>\n<p>This logo is a tribute to Jean Martell. Indeed, it is said that he loved these birds because their flight and their song made him think to the swallows of the island of Jersey (island on which he spent his childhood).</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/111618135605349851906",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-01-06T18:03:38",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1673028218737",
+    "dcterms:modified" : "2023-01-06T18:13:12",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://Clem0312.github.io/MartellCognac/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1422,2,1129,483"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1421.8342,1.73057h564.31606v0h564.31606v241.62176v241.62176h-564.31606h-564.31606v-241.62176z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0,0],&quot;editable&quot;:true}\" id=\"rectangle_2cb074ef-75d6-4dba-976a-38e2477ec69a\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#000000\" stroke-width=\"22.38342\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://c5df69f2-ae46-4b0e-9e1b-ded395d91027"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "In 2001, Martell joined the French spirits group Pernod-Ricard. On this occasion, it modernizes its labels. Here is the current label stuck on the bottles of the house.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>In 2001, Martell joined the French spirits group Pernod-Ricard. On this occasion, it modernizes its labels. Here is the current label stuck on the bottles of the house.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/111618135605349851906",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-01-06T18:05:02",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1673028302210",
+    "dcterms:modified" : "2023-01-06T19:25:31",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://Clem0312.github.io/MartellCognac/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1875,813,37,56"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1893.88601,869.2228c0,-12.43523 6.21762,-24.87047 18.65285,-37.3057c0,-10.30168 -8.35117,-18.65285 -18.65285,-18.65285c-10.30168,0 -18.65285,8.35117 -18.65285,18.65285c12.43523,12.43523 18.65285,24.87047 18.65285,37.3057z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;fixedSize&quot;:true,&quot;annotation&quot;:null,&quot;editable&quot;:true}\" id=\"pin_9689269e-8918-4be1-baa7-fef362d10ffe\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"22.38342\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://c5df69f2-ae46-4b0e-9e1b-ded395d91027"
+    } ]
+  } ],
+  "@id" : "https://Clem0312.github.io/MartellCognac/annotations/1cb3ca8d2f1c9b61ecdb49c57f01785f.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
