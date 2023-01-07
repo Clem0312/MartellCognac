@@ -1,0 +1,72 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "\"Messieurs,&nbsp;\nL'unique objet de la presente est de vous confirmer l'ordre donn&eacute; par ... de m'exp&eacute;dier le plus promptement et sans aucun retard, les 85 litres d'eau de vie arrang&eacute;e pour Philadelphie, de les faire bien rabattre en 2 ou 4 cerckes de fer pour n'avoir qu'&agrave; les renverser de bord &agrave; bord lorsqu'ils seront .. Je me repose sur vos soins.&nbsp;\nJ'ay l'honneur d'&ecirc;tre sinc&egrave;rement votre bien humble serviteur.\"",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>\"Messieurs,&nbsp;</p>\n<p>L'unique objet de la presente est de vous confirmer l'ordre donn&eacute; par ... de m'exp&eacute;dier le plus promptement et sans aucun retard, les 85 litres d'eau de vie arrang&eacute;e pour Philadelphie, de les faire bien rabattre en 2 ou 4 cerckes de fer pour n'avoir qu'&agrave; les renverser de bord &agrave; bord lorsqu'ils seront .. Je me repose sur vos soins.&nbsp;</p>\n<p>J'ay l'honneur d'&ecirc;tre sinc&egrave;rement votre bien humble serviteur.\"</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/111618135605349851906",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-01-06T18:01:14",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1673028074166",
+    "dcterms:modified" : "2023-01-06T18:01:14",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://Clem0312.github.io/MartellCognac/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=364,400,24,36"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M375.55527,436.48532c0,-8.01492 4.00746,-16.02984 12.02238,-24.04477c0,-6.63978 -5.3826,-12.02238 -12.02238,-12.02238c-6.63978,0 -12.02238,5.3826 -12.02238,12.02238c8.01492,8.01492 12.02238,16.02984 12.02238,24.04477z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;fixedSize&quot;:true,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;annotation&quot;:null}\" id=\"pin_ed22b4a2-2de3-4bac-accb-c825c641e9b6\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#000000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://18e34f6b-105c-4f29-9079-21470a56d919"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "In 1793, the first shipment of Martell brandy was exported to America.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>In 1793, the first shipment of Martell brandy was exported to America.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/111618135605349851906",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-01-06T18:03:27",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1673028207045",
+    "dcterms:modified" : "2023-01-06T18:03:27",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://Clem0312.github.io/MartellCognac/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=49,165,0,514"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M49.38169,165.07081c0,61.51357 0,123.02713 0,168.24525c0,45.21812 0,74.14078 0,103.16926c0,29.02848 0,58.16277 0,87.29706c0,29.13429 0,92.34089 0,155.5475\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;deleteIcon&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"smooth_path_fb8625e2-93d8-4c78-b4e7-3921a55b5e3e\" fill=\"none\" fill-rule=\"nonzero\" stroke=\"#000000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://18e34f6b-105c-4f29-9079-21470a56d919"
+    } ]
+  } ],
+  "@id" : "https://Clem0312.github.io/MartellCognac/annotations/5952144bce7c86bc170a5c46a75802f9.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
