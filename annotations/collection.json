@@ -1,6 +1,6 @@
 {
   "@type" : "sc:Layer",
-  "otherContent" : [ "https://Clem0312.github.io/MartellCognac/annotations/6b80793dd2d0328ec933246278fc54af.json", "https://Clem0312.github.io/MartellCognac/annotations/1cb3ca8d2f1c9b61ecdb49c57f01785f.json" ],
+  "otherContent" : [ "https://Clem0312.github.io/MartellCognac/annotations/6b80793dd2d0328ec933246278fc54af.json", "https://Clem0312.github.io/MartellCognac/annotations/1cb3ca8d2f1c9b61ecdb49c57f01785f.json", "https://Clem0312.github.io/MartellCognac/annotations/417e41c9ad9e1e340ba887b43d5c0098.json" ],
   "@id" : "https://Clem0312.github.io/MartellCognac/annotations/collection.json",
   "label" : "All annotations loaded in Clem0312/MartellCognac project",
   "@context" : "http://iiif.io/api/presentation/2/context.json"
