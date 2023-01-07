@@ -1,0 +1,39 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "XO (Extra Old) was invented in 1870 by another cognac house : Hennessy. It's a cognac whose youngest brandy has aged at least for ten years in an oak barrel. It's the reference for all houses of cognac.&nbsp;\n&nbsp;",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>XO (Extra Old) was invented in 1870 by another cognac house : Hennessy. It's a cognac whose youngest brandy has aged at least for ten years in an oak barrel. It's the reference for all houses of cognac.&nbsp;</p>\n<p>&nbsp;</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/111618135605349851906",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-01-06T14:17:32",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1673014652834",
+    "dcterms:modified" : "2023-01-06T14:17:32",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://Clem0312.github.io/MartellCognac/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=95,168,37,21"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M95.15026,168.1209h18.70294v0h18.70294v10.49914v10.49914h-18.70294h-18.70294v-10.49914z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_aa276646-aadb-4b14-b505-1528ec1ab49c\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://f4bba533-384f-4e60-ab7b-7065f8c84bf3"
+    } ]
+  } ],
+  "@id" : "https://Clem0312.github.io/MartellCognac/annotations/6b80793dd2d0328ec933246278fc54af.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
