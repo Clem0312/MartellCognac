@@ -1,0 +1,7 @@
+{
+  "@type" : "sc:Layer",
+  "otherContent" : [ "https://Clem0312.github.io/MartellCognac/annotations/6b80793dd2d0328ec933246278fc54af.json" ],
+  "@id" : "https://Clem0312.github.io/MartellCognac/annotations/collection.json",
+  "label" : "All annotations loaded in Clem0312/MartellCognac project",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
