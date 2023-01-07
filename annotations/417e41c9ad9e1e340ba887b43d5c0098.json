@@ -1,0 +1,39 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Jean Martell (1694-1753) was born on the island of Jersey.When he became an adult, he settled in Charente where he founded his brandy trading house. He is the creator of the cognac house Martell.&nbsp;",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Jean Martell (1694-1753) was born on the island of Jersey.When he became an adult, he settled in Charente where he founded his brandy trading house. He is the creator of the cognac house Martell.&nbsp;</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/111618135605349851906",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-01-06T13:36:19",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1673012179797",
+    "dcterms:modified" : "2023-01-06T13:36:19",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://Clem0312.github.io/MartellCognac/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=317,193,19,28"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M326.58204,220.86528c0,-6.29246 3.14623,-12.58492 9.43869,-18.87737c0,-5.21284 -4.22584,-9.43869 -9.43869,-9.43869c-5.21284,0 -9.43869,4.22584 -9.43869,9.43869c6.29246,6.29246 9.43869,12.58492 9.43869,18.87737z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;fixedSize&quot;:true,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;annotation&quot;:null}\" id=\"pin_5051f2bc-add5-4c13-a137-d6c724ea8b63\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://ee5bc43b-a66e-4555-a1d9-8dfdfd578322"
+    } ]
+  } ],
+  "@id" : "https://Clem0312.github.io/MartellCognac/annotations/417e41c9ad9e1e340ba887b43d5c0098.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
